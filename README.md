@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyKoala&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on data processor to process oversea games of the company.
 - 🌱 I’m currently learning "Chapter 4. Processor Architecture" of CSAPP book.
 - 👯 I’m looking to collaborate on network security project.
